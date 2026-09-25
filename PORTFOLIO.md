@@ -1,3 +1,9 @@
 Ezequiel Colque.
  ## Sobre Mí 
  Soy estudiante de la Tecnicatura Universitaria en Programación a Distancia (TUPaD) en la UTN. Me interesa el desarrollo de software y estoy formándome en bases de datos, programación orientada a objetos con Java y desarrollo web frontend.
+  ## Habilidades
+  HTML y CSS
+-Java (Programación II)
+-Bases de Datos relacionales (SQL) y NoSQL (MongoDB)
+-Control de versiones con Git y GitHub
+-Visual Studio Code
